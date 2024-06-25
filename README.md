@@ -1,6 +1,7 @@
 # RoboGPT-
 An intelligent agent of making embodied long-term decisions for daily instruction tasks
 - - -
+![imgae](Architecture.pdf)
 
 ## **Template Feedback:**
 

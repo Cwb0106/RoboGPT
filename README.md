@@ -1,4 +1,4 @@
-# RoboGPT-
+# RoboGPT
 An intelligent agent of making embodied long-term decisions for daily instruction tasks
 - - -
 ![imgae](Figs/Architecture.png)

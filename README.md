@@ -1,5 +1,5 @@
 # RoboGPT
-An intelligent agent of making embodied long-term decisions for daily instruction tasks
+An LLM-based embodied long-term decision making agent for instruction following tasks
 - - -
 ![imgae](Figs/Architecture.png)
 
